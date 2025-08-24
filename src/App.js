@@ -10,7 +10,7 @@ function scrollToId(id) {
 }
 
 export default function ClimbEd() {
-  const whatsappNumber = "918848682152"; // with country code
+  const whatsappNumber = "919071657823"; // with country code
   const waText = encodeURIComponent("Hi, I'm interested in ClimbEd courses. Please share details.");
   const waLink = `https://wa.me/${whatsappNumber}?text=${waText}`;
 
